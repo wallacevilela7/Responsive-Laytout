@@ -44,6 +44,7 @@ nav {
 }
 
 .menu-options a {
+    color: hsl(236, 13%, 42%);
     margin-left: 20px;
     cursor: pointer;
     text-decoration: none;
