@@ -205,7 +205,7 @@ RESPONSIVE
 */
 
 
-@media(max-width:1050px) {
+@media(max-width:1150px) {
     .container {
         width: 880px;
     }
